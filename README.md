@@ -2,7 +2,7 @@
 
 - 🔭 Quality Assurance
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 22 anos
+- 👯 23 anos
 - 📫 Contate -me no e-mail: vitoriabiasioli18@gmail.com
 
 
