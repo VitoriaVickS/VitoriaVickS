@@ -1,6 +1,6 @@
 ### Olá Sejam Bem-Vindos! 👋
 
-- 🔭 Quality Assurance
+- 🔭 Quality Assurance/QA Automação 🐞
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 23 anos
 - 📫 Contate -me no e-mail: vitoriabiasioli18@gmail.com
